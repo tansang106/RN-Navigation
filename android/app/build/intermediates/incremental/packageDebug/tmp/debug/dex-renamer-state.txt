@@ -1,0 +1,4 @@
+#Thu Nov 15 11:09:29 ICT 2018
+base.0=F\:\\Project\\React Native\\ChatSang1\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
