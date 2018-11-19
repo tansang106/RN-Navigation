@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-MERGED from [:react-native-fbsdk] F:\Project\React Native\ChatSang1\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:1-30:12
-MERGED from [:react-native-vector-icons] F:\Project\React Native\ChatSang1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:2:1-15:12
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-fbsdk] F:\Project\React Native\RN-Navigation\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-vector-icons] F:\Project\React Native\RN-Navigation\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:2:1-15:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\358bf9dbc1b67734498a1db584196cb6\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-share-4.34.0.aar\6389817bf4406e5005d31f2f52706367\AndroidManifest.xml:21:1-31:12
@@ -39,39 +39,39 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\prist\.gradle\cach
 MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\6513eb82e4c50b56324f27064209d118\AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1fdae19f507e579b3f831ee2c684082\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f4b15921c8960be038debc8a03ecdb58\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
 	package
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:2:5-27
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:11:5-78
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:5:22-75
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:7:5-25:19
-MERGED from [:react-native-fbsdk] F:\Project\React Native\ChatSang1\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-20
-MERGED from [:react-native-fbsdk] F:\Project\React Native\ChatSang1\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-20
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:13:5-20
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-fbsdk] F:\Project\React Native\RN-Navigation\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] F:\Project\React Native\RN-Navigation\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:28:5-29:19
 MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\358bf9dbc1b67734498a1db584196cb6\AndroidManifest.xml:28:5-29:19
@@ -97,55 +97,55 @@ MERGED from [org.webkit:android-jsc:r174650] C:\Users\prist\.gradle\caches\trans
 	android:supportsRtl
 		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:28:18-44
 	android:label
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:8:7-38
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:13:11-109
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:13:11-109
 	android:value
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:13:68-107
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:13:68-107
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:13:22-67
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:13:22-67
 activity#com.chatdemo.MainActivity
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:14:7-23:18
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:14:7-23:18
 	android:label
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:16:9-41
 	android:windowSoftInputMode
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:17:9-79
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:17:9-79
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:15:9-37
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:15:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:24:7-84
+ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:24:17-81
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:24:17-81
 uses-sdk
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-fbsdk] F:\Project\React Native\ChatSang1\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-fbsdk] F:\Project\React Native\ChatSang1\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-vector-icons] F:\Project\React Native\ChatSang1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] F:\Project\React Native\ChatSang1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\237a960afe476eab5656542d99149898\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-fbsdk] F:\Project\React Native\RN-Navigation\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] F:\Project\React Native\RN-Navigation\node_modules\react-native-fbsdk\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-vector-icons] F:\Project\React Native\RN-Navigation\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] F:\Project\React Native\RN-Navigation\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\ad9fcef4dc925f92fcd03de04445198b\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.34.0.aar\17c4362d9708442647a3d9631cee535f\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-login-4.34.0.aar\358bf9dbc1b67734498a1db584196cb6\AndroidManifest.xml:24:5-26:41
@@ -208,16 +208,16 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prist\.gradle\caches
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1fdae19f507e579b3f831ee2c684082\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f4b15921c8960be038debc8a03ecdb58\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f4b15921c8960be038debc8a03ecdb58\AndroidManifest.xml:20:5-44
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml
 activity#com.facebook.FacebookActivity
 ADDED from [com.facebook.android:facebook-common:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-common-4.34.0.aar\3945a0983f2a10dc016e00f3b35c03be\AndroidManifest.xml:29:9-32:66
 	android:configChanges
@@ -263,8 +263,8 @@ ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\prist\.gradle\ca
 	android:name
 		ADDED from [com.facebook.android:facebook-core:4.34.0] C:\Users\prist\.gradle\caches\transforms-1\files-1.1\facebook-core-4.34.0.aar\0be7e74b142d48d513f3063395f6b7d9\AndroidManifest.xml:48:25-92
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\Project\React Native\ChatSang1\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\Project\React Native\RN-Navigation\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Project\\React Native\\ChatSang1\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "F:\\Project\\React Native\\RN-Navigation\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\prist\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\b3ca3df455c963351d6580d2efc846c7\\res\\values-v23\\values-v23.xml",

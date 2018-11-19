@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Project\\React Native\\ChatSang1\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "outputFile": "F:\\Project\\React Native\\RN-Navigation\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\prist\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.34.0.aar\\358bf9dbc1b67734498a1db584196cb6\\res\\values-pt-rPT\\values-pt-rPT.xml",

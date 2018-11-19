@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Project\\React Native\\ChatSang1\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "F:\\Project\\React Native\\RN-Navigation\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
                     "source": "C:\\Users\\prist\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-common-4.34.0.aar\\3945a0983f2a10dc016e00f3b35c03be\\res\\values-id\\values-id.xml",

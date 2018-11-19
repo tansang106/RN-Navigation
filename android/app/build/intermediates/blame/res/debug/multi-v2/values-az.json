@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Project\\React Native\\ChatSang1\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "F:\\Project\\React Native\\RN-Navigation\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\prist\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9ed73235811aee04407639053a7278aa\\res\\values-az\\values-az.xml",
